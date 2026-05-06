@@ -1,0 +1,6 @@
+google-genai
+pydantic
+transformers
+torch
+pillow
+easyocr

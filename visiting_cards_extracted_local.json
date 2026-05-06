@@ -1,0 +1,44 @@
+[
+    {
+        "first_name": "Sawalram",
+        "last_name": "Shyamsunder",
+        "organisation": "Manavta",
+        "designation": "Canvassing Agents in",
+        "email": "",
+        "mobile": "8055803830",
+        "website": "",
+        "full_address": "15-2-449/13, Kishan Gunj, Hyderabad - 500 012 (A.P.)",
+        "city": "Hyderabad",
+        "zip_code": "500 012",
+        "gst_or_id": "",
+        "filename": "IMG_20200209_183222.jpg"
+    },
+    {
+        "first_name": "Nehaal",
+        "last_name": "Fakih",
+        "organisation": "91 Springboard",
+        "designation": "cowork . network . grow",
+        "email": "nehaal@91springboard.com",
+        "mobile": "+91-9004488330",
+        "website": "www.91springboard.com",
+        "full_address": "Plot No. D-5 Road No. 20, Marol MIDC, Andheri East Mumbai - 400069",
+        "city": "Mumbai",
+        "zip_code": "400069",
+        "gst_or_id": "",
+        "filename": "IMG_20200209_183235.jpg"
+    },
+    {
+        "first_name": "M.Narayana Murty",
+        "last_name": "Murty",
+        "organisation": "LAKSHMI VENKATA RAMANA COCOANUT MERCHANTS",
+        "designation": "COCOANUT EXPORTERS",
+        "email": "lvrcocoanutmerchants@gmail.com",
+        "mobile": "9848144196",
+        "website": "",
+        "full_address": "Yadla Bazar, PALAKOL-534260. W.G.Dist,(A.P.)",
+        "city": "PALAKOL",
+        "zip_code": "534260",
+        "gst_or_id": "(08814)224530,224796(O)",
+        "filename": "IMG_20200209_183246.jpg"
+    }
+]
